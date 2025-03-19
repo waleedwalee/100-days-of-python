@@ -1,4 +1,5 @@
 import random
+import hangman_words
 
 # Hangman ASCII stages
 stages = ['''
